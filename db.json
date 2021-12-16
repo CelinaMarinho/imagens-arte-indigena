@@ -1,0 +1,13 @@
+{
+    "imagem": [
+        {
+            "id": 1,
+            "imagem": "Aqui vai uma imagem",
+            "texto": "Aqui vai um texto"
+        },
+        {
+            "id": 2,
+            "imagem": "Aqui vai outra imagem"
+        }
+    ]
+}
