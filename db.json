@@ -2,73 +2,85 @@
     "indigena": [
         {
             "id": 1,
-            "image": "https://ibb.co/RYjC2ct.jpeg",
-            "title": "Senhora das Águas",
-            "description": "Aqui vai um texto",
-            "type": "escultura"
+            "image": "https://imgbox.com/X3bZd3d0",
+            "title": "Senhora das Águas (Tradição Pankararu)",
+            "description": "Por séculos as mulheres indígenas Pankararu são responsáveis por conduzir a dança dos animais, herança ancestral onde as mulheres são protagonistas do ritual e responsáveis pelo animal/ser ancestral que ela lidera ao som de seu canto principal.",
+            "type": "escultura",
+            "measures":""
         },
         {
             "id": 2,
-            "image": "https://ibb.co/b1pTWrY.jpeg",
+            "image": "https://imgbox.com/UE0s2ed8",
             "title": "Caboclo de Pena",
-            "description": "Aqui vai um texto",
-            "type": "escultura"
+            "description": "Este encantado é um dos guardiões da Jurema, e em seu reinado protege as matas virgens e os animais que possuem penas.",
+            "type": "escultura",
+            "measures":""
         },
         {
             "id": 3,
-            "image": "https://ibb.co/GMGxvXZ.jpeg",
-            "tile": "Iara",
-            "description": "Aqui vai um texto",
-            "type": "escultura"
+            "image": "https://imgbox.com/xOb1ME7Q",
+            "title": "Mulher com Jarro",
+            "description": "Sem Nome",
+            "type": "escultura",
+            "measures":""
         },
         {
             "id": 4,
-            "image": "https://ibb.co/YcQ9ZBr.jpeg",
+            "image": "https://imgbox.com/d6MjjZeR",
             "title": "Cantador Pankararu",
-            "description": "Aqui vai um texto",
-            "type": "escultura"
+            "description": "Os cantadores Pankararu são responsáveis por invocar os seres que vivem nas matas através do canto entoado pelo Maracá, ferramenta sagrada que dá ritmo a dança dos Encantados",
+            "type": "escultura",
+            "measures":""
         },
         {
             "id": 5,
-            "image": "https://ibb.co/StGXhwn.jpeg",
+            "image": "https://imgbox.com/apWUy0DP",
             "title": "Madrinha do Menino do Rancho",
-            "description": "Aqui vai um texto",
-            "type": "escultura"
+            "description": "A Madrinha é a representação da mãe do Menino, sua função é acompanhar o ritual e orientar o menino/noivo durante e pós ritual.",
+            "type": "escultura",
+            "measures": "16cm de altura x 9 cm de largura"
+            
         },
         {
             "id": 6,
-            "image": "https://ibb.co/Qcjyz3v.jpeg",
+            "image": "https://imgbox.com/mGBAch1x",
             "title": "Menino do Rancho",
-            "description": "Aqui vai um texto",
-            "type": "escultura"
+            "description": "Personagem que caracteriza o ritual do Menino do Rancho",
+            "type": "escultura",
+            "measures":"26cm de altura x 13cm de largura"
         },
         {
             "id": 7,
-            "image": "https://ibb.co/x5mFL85.jpeg",
+            "image": "https://imgbox.com/c77FCoNP",
             "title": "Praiá Pankararu",
-            "description": "Aqui vai um texto",
-            "type": "escultura"
+            "description": "Praiá Pankararu",
+            "type": "escultura",
+            "measures":"25,8cm vertical x 9,30cm horizontal"
         },
         {
             "id": 8,
-            "image": "https://ibb.co/MBg8Zqf.jpeg",
+            "image": "https://imgbox.com/ZNWY4TJ2",
             "title": "Mãe d'Água",
-            "description": "Aqui vai um texto",
-            "type": "escultura"
+            "description": "Mãe d'Água",
+            "type": "escultura",
+            "measures":"26cm vertical x 23cm diagonal x 9cm horizontal"
+            
         },
         {
             "id": 9,
-            "image": "https://ibb.co/Tq7VYSM.jpeg",
-            "title": "Sem Nome",
-            "description": "Aqui vai um texto",
-            "type": "escultura"
+            "image": "https://imgbox.com/GJKLcZT2",
+            "title": "Menino",
+            "description": "Sem Nome",
+            "type": "escultura",
+            "measures":""
         },
         {
             "id": 10,
-            "image": "https://ibb.co/RhvT7xt.jpeg",
-            "title": "Mestre Gavião",
-            "description": "Aqui vai um texto",
-            "type": "escultura"
+            "image": "https://imgbox.com/MEQSN7aG",
+            "title": "Mestre Gavião (Tradição Pankararu)",
+            "description": "Mestre Gavião, um dos encantados Pankararu e também um dos guerreiros da Jurema.",
+            "type": "escultura",
+            "measures":"16cm de altura x 12cm de largura"
         }
 
     ]
