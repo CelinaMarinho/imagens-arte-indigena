@@ -2,70 +2,70 @@
     "images": [
         {
             "id": 1,
-            "image": "https://ibb.co/RYjC2ct",
+            "image": "https://ibb.co/RYjC2ct.jpg",
             "title": "Senhora das Águas",
             "description": "Aqui vai um texto",
             "type": "escultura"
         },
         {
             "id": 2,
-            "image": "https://ibb.co/b1pTWrY",
+            "image": "https://ibb.co/b1pTWrY.jpg",
             "title": "Caboclo de Pena",
             "description": "Aqui vai um texto",
             "type": "escultura"
         },
         {
             "id": 3,
-            "image": "https://ibb.co/GMGxvXZ",
+            "image": "https://ibb.co/GMGxvXZ.jpg",
             "tile": "Iara",
             "description": "Aqui vai um texto",
             "type": "escultura"
         },
         {
             "id": 4,
-            "image": "https://ibb.co/YcQ9ZBr",
+            "image": "https://ibb.co/YcQ9ZBr.jpg",
             "title": "Cantador Pankararu",
             "description": "Aqui vai um texto",
             "type": "escultura"
         },
         {
             "id": 5,
-            "image": "https://ibb.co/StGXhwn",
+            "image": "https://ibb.co/StGXhwn.jpg",
             "title": "Madrinha do Menino do Rancho",
             "description": "Aqui vai um texto",
             "type": "escultura"
         },
         {
             "id": 6,
-            "image": "https://ibb.co/Qcjyz3v",
+            "image": "https://ibb.co/Qcjyz3v.jpg",
             "title": "Menino do Rancho",
             "description": "Aqui vai um texto",
             "type": "escultura"
         },
         {
             "id": 7,
-            "image": "https://ibb.co/x5mFL85",
+            "image": "https://ibb.co/x5mFL85.jpg",
             "title": "Praiá Pankararu",
             "description": "Aqui vai um texto",
             "type": "escultura"
         },
         {
             "id": 8,
-            "image": "https://ibb.co/MBg8Zqf",
+            "image": "https://ibb.co/MBg8Zqf.jpg",
             "title": "Mãe d'Água",
             "description": "Aqui vai um texto",
             "type": "escultura"
         },
         {
             "id": 9,
-            "image": "https://ibb.co/Tq7VYSM",
+            "image": "https://ibb.co/Tq7VYSM.jpg",
             "title": "Sem Nome",
             "description": "Aqui vai um texto",
             "type": "escultura"
         },
         {
             "id": 10,
-            "image": "https://ibb.co/RhvT7xt",
+            "image": "https://ibb.co/RhvT7xt.jpg",
             "title": "Mestre Gavião",
             "description": "Aqui vai um texto",
             "type": "escultura"
