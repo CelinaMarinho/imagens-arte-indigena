@@ -1,5 +1,5 @@
 {
-    "images": [
+    "indigena": [
         {
             "id": 1,
             "image": "https://ibb.co/RYjC2ct.jpeg",
@@ -37,7 +37,7 @@
         },
         {
             "id": 6,
-            "image": "https://ibb.co/Qcjyz3v.jpg",
+            "image": "https://ibb.co/Qcjyz3v.jpeg",
             "title": "Menino do Rancho",
             "description": "Aqui vai um texto",
             "type": "escultura"
