@@ -2,63 +2,73 @@
     "images": [
         {
             "id": 1,
-            "image": "https://drive.google.com/file/d/1-vui6Jl90Jfi9C3mpF3V2z3EY4ZlH8RY/view?usp=sharing",
+            "image": "https://ibb.co/RYjC2ct",
             "title": "Senhora das Águas",
-            "description": "Aqui vai um texto"
+            "description": "Aqui vai um texto",
+            "type": "escultura"
         },
         {
             "id": 2,
-            "image": "https://drive.google.com/file/d/1HE0ayFj3ZcVRr-LnAMWBrDzNq3gRD_4l/view?usp=sharing",
+            "image": "https://ibb.co/b1pTWrY",
             "title": "Caboclo de Pena",
-            "description": "Aqui vai um texto"
+            "description": "Aqui vai um texto",
+            "type": "escultura"
         },
         {
             "id": 3,
-            "image": "https://drive.google.com/file/d/1WBRnz7xSpsQdXsPI_ryT8MbkhjphfJDt/view?usp=sharing",
+            "image": "https://ibb.co/GMGxvXZ",
             "tile": "Iara",
-            "description": "Aqui vai um texto"
+            "description": "Aqui vai um texto",
+            "type": "escultura"
         },
         {
             "id": 4,
-            "image": "https://drive.google.com/file/d/1uhXObnyD_2uFfvDeE4R5_l5NKunVqf3V/view?usp=sharing",
+            "image": "https://ibb.co/YcQ9ZBr",
             "title": "Cantador Pankararu",
-            "description": "Aqui vai um texto"
+            "description": "Aqui vai um texto",
+            "type": "escultura"
         },
         {
             "id": 5,
-            "image": "https://drive.google.com/file/d/1wJbMgbWwPl052LxFcKyHATeMei--cjlT/view?usp=sharing",
+            "image": "https://ibb.co/StGXhwn",
             "title": "Madrinha do Menino do Rancho",
-            "description": "Aqui vai um texto"
+            "description": "Aqui vai um texto",
+            "type": "escultura"
         },
         {
             "id": 6,
-            "image": "https://drive.google.com/file/d/1gdfA7F08n62XF3IlGXsLLsHtiOU438NO/view?usp=sharing",
+            "image": "https://ibb.co/Qcjyz3v",
             "title": "Menino do Rancho",
-            "description": "Aqui vai um texto"
+            "description": "Aqui vai um texto",
+            "type": "escultura"
         },
         {
             "id": 7,
-            "image": "https://drive.google.com/file/d/1r6UmPh6sNGPKMRfR6HWYruNTVOc3zPTl/view?usp=sharing",
+            "image": "https://ibb.co/x5mFL85",
             "title": "Praiá Pankararu",
-            "description": "Aqui vai um texto"
+            "description": "Aqui vai um texto",
+            "type": "escultura"
         },
         {
             "id": 8,
-            "image": "https://drive.google.com/file/d/1eK76sXQyYYQcoDeiL8kpziav2bjVJaM0/view?usp=sharing",
+            "image": "https://ibb.co/MBg8Zqf",
             "title": "Mãe d'Água",
-            "description": "Aqui vai um texto"
+            "description": "Aqui vai um texto",
+            "type": "escultura"
         },
         {
             "id": 9,
-            "image": "https://drive.google.com/file/d/1BtE5Ns_s07et1W4wjgAoQamZp_JRIC3S/view?usp=sharing",
+            "image": "https://ibb.co/Tq7VYSM",
             "title": "Sem Nome",
-            "description": "Aqui vai um texto"
+            "description": "Aqui vai um texto",
+            "type": "escultura"
         },
         {
             "id": 10,
-            "image": "https://drive.google.com/file/d/1XjGV0DFGT3GXUhwN66NqcB1YaCpzU-Yq/view?usp=sharing",
+            "image": "https://ibb.co/RhvT7xt",
             "title": "Mestre Gavião",
-            "description": "Aqui vai um texto"
+            "description": "Aqui vai um texto",
+            "type": "escultura"
         }
 
     ]
